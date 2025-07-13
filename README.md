@@ -2,14 +2,9 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/TanishaSharma01">Tanisha Sharma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me*** 
 
-<img align="right" width=200px alt="Unicorn" src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif"/>
-
-I am a **Computer Science** student doing my Masters at Australian National University , currently halfway through my degree. I am expanding my knowledge in both back-end and front-end development. I have 2+ years of professional experience as a Full-Stack developer and DevOps engineer, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new and creative.
-- 📚 I’m currently learning ...
-  - *Python*
-  - *TensorFlow*
+I am a **Computer Science** student doing my Masters at the Australian National University, currently halfway through my degree. I am expanding my knowledge in both back-end and front-end development. I have 2+ years of professional experience as a Full-Stack developer and DevOps engineer, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new and creative.
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎨 doodling, 🎮 playing video games, and 🎵 listening to music.
@@ -17,6 +12,8 @@ I am a **Computer Science** student doing my Masters at Australian National Univ
   <a href="https://www.linkedin.com/in/tanisha-sharma-465aa71b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:tanishaofficial30@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <br>
+
+![profile count](https://komarev.com/ghpvc/?username=TanishaSharma01&color=red)&nbsp;
 
 🔨 ***I've contributed to***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -41,6 +38,8 @@ I am a **Computer Science** student doing my Masters at Australian National Univ
 ###### Frontend Development:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
@@ -70,3 +69,24 @@ I am a **Computer Science** student doing my Masters at Australian National Univ
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 <br>
 <br>
+
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TanishaSharma01&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaSharma01&theme=nightowl&hide_border=false" alt="TanishaSharma01 streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TanishaSharma01&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
