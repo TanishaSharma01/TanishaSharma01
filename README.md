@@ -1,8 +1,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/TanishaSharma01">Tanisha Sharma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/TanishaSharma01">Tanisha Sharma</a> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me*** 
+
+<img align="right" width=200px alt="Unicorn" src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif"/>
 
 I am a **Computer Science** student doing my Masters at the Australian National University, currently halfway through my degree. I am expanding my knowledge in both back-end and front-end development. I have 2+ years of professional experience as a Full-Stack developer and DevOps engineer, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new and creative.
 - 🚀 I’m eager to join new projects.
