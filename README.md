@@ -15,7 +15,7 @@ I am a **Computer Science** student doing my Masters at the Australian National 
   <a href="https://www.linkedin.com/in/tanisha-sharma-465aa71b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:tanishaofficial30@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 - Check out my Website:
-<a href="https://tanisha-sharma.surge.sh/"><img alt="Website" src="https://img.shields.io/website?url=https://tanisha-sharma.surge.sh" /></a> &nbsp;
+<a href="https://tanishasharma01.github.io/Portfolio-Website/"><img alt="Website" src="https://img.shields.io/website?url=https://tanishasharma01.github.io/Portfolio-Website/" /></a> &nbsp;
 <br>
 
 ![profile count](https://komarev.com/ghpvc/?username=TanishaSharma01&color=red)&nbsp;
