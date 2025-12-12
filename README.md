@@ -83,7 +83,6 @@ I am a **Computer Science** student doing my Masters at the Australian National 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TanishaSharma01&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaSharma01&theme=nightowl&hide_border=false" alt="TanishaSharma01 streak" />  
 </td>
 <td width="50%" align="center">
